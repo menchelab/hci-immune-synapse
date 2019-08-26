@@ -6,6 +6,16 @@ Yolla German\*,  Loan Vulliard\*, Aude Rubio, Audrey Ferrand, Kaan Boztug, Jörg
 
 Correspondence to: loic.dupre[at]inserm.fr
 
+
+## Data availability
+
+All files used in this analysis will be shared in appropriate public repositories. Input files should be placed in a folder called **Rsc** at the root directory of this repository.
+
+
+## Code summary
+
+Several notebooks are provided, showing the analysis presented in the paper and how the figures were generated.
+
 ## Running the code using Docker
 
 ### General instructions
@@ -18,7 +28,10 @@ This repository compiles a collection of scripts and Jupyter notebooks. For repr
 
 		docker build --rm -t hci-immune-synapse .
 	
-* Put the required input data in the repository.
+* Put the required input data in the repository and create output folders (see section Data availability).
+
+		mkdir Tab Fig Rsc
+        
 * Run the following each time you want to start a notebook server to run code from this repository:
 
 		docker run -p 9999:8888 -v `pwd`:/home/jovyan hci-immune-synapse
