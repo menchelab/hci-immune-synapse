@@ -9,8 +9,7 @@ Correspondence to: loic.dupre[at]inserm.fr
 
 ## Data availability
 
-All files used in this analysis will be shared in appropriate public repositories. Input files should be placed in a folder called **Rsc** at the root directory of this repository.
-
+All files used in this analysis will be shared in appropriate public repositories. The notebooks are split according to the experiments presented in this study and can be run independently. They require the measurements obtained from CellProfiler and the plate layouts as input. Input files should be placed in a folder called **Rsc** at the root directory of this repository.
 
 ## Code summary
 
@@ -43,9 +42,13 @@ This repository compiles a collection of scripts and Jupyter notebooks. For repr
 * You can now choose a notebook to run.
 * Close the notebook server and the docker container by pressing CTRL+C in your terminal.
 
+## Troubleshoot
+
+If the notebooks crash and restart, you might need to increase the resources allocated to Docker in the Docker Settings menu. This was successfully run with 2 CPUs, 12GB of RAM and 2GB of swap space.  
+
 ### Note for Windows users
 
-You can follow the same instructions in a PowerShell. After installing Docker desktop, you might need to:
+You can follow the general instructions in a PowerShell. After installing Docker desktop, you might need to:
 
 * Run and complete the following procedure:
 		
