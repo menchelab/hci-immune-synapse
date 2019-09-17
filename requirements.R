@@ -5,5 +5,6 @@ options(repos = list(CRAN = 'http://mran.revolutionanalytics.com/snapshot/2019-0
 install.packages("extrafont")
 install.packages("heatmaply")
 install.packages("ggrepel")
+install.packages("ggpubr")
 install.packages("reticulate")
 install.packages("robustbase")
