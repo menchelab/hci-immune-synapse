@@ -1,4 +1,4 @@
-# High-content imaging of immunological synapse architecture in human cytotoxic lymphocytes
+# High-content imaging of human T and NK lymphocytes reveals actin-mediated control of the immunological synapse
 
 ## Study authors
 
@@ -66,3 +66,7 @@ You can follow the general instructions. You might need to run Docker with super
 ### Note for MacOS users
 
 You can follow the general instructions.
+
+
+
+[![DOI](https://zenodo.org/badge/217304173.svg)](https://zenodo.org/badge/latestdoi/217304173)
