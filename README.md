@@ -1,8 +1,8 @@
-# Morphological profiling of human T and NK lymphocytes identifies actin-mediated control of the immunological synapse
+# Morphological profiling of human T and NK lymphocytes by high-content cell imaging 
 
 ## Study authors
 
-Yolla German\*,  Loan Vulliard\*, Aude Rubio, Audrey Ferrand, Kaan Boztug, Jörg Menche and Loïc Dupré
+Yolla German\*,  Loan Vulliard\*, Anton Kamnev, Laurène Pfajfer, Jakob Huemer, Anna-Katharina Mautner, Aude Rubio, Artem Kalinichenko, Kaan Boztug, Audrey Ferrand, Jörg Menche and Loïc Dupré
 
 Correspondence to: loic.dupre[at]inserm.fr
 
@@ -71,7 +71,6 @@ You can follow the general instructions. You might need to run Docker with super
 ### Note for MacOS users
 
 You can follow the general instructions.
-
 
 
 [![DOI](https://zenodo.org/badge/217304173.svg)](https://zenodo.org/badge/latestdoi/217304173)
