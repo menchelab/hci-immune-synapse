@@ -73,4 +73,5 @@ You can follow the general instructions. You might need to run Docker with super
 You can follow the general instructions.
 
 
-[![DOI](https://zenodo.org/badge/217304173.svg)](https://zenodo.org/badge/latestdoi/217304173)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4562363.svg)](https://doi.org/10.5281/zenodo.4562363)
